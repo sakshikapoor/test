@@ -14,4 +14,4 @@ function testFunction(options) {
         }
     })
 }
-module.export.testFunction = testFunction;
+module.exports.testFunction = testFunction;
