@@ -4,10 +4,10 @@ Get perfect shadows for the non-designer
 
 # Installation
 
-`npm i test --save `
+`npm i shadowtest --save `
 
 ```
-import { testFunction } from 'test';
+import { testFunction } from 'shadowtest';
 
 testFunction ({
     shadow_type: 'soft',
